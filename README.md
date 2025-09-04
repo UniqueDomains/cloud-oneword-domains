@@ -21,7 +21,7 @@ If you want to search & filters the complete database of [.CLOUD one word domain
 
 | Domain               | Status    | Attract. | Demand | Length | Registrar | Created          | Expires          |
 | -------------------- | --------- | -------- | ------ | ------ | --------- | ---------------- | ---------------- |
-| aaa.cloud            | premium   | 70       | 92%    | 3      |           |                  |                  |
+| aaa.cloud            | premium   | 70       | 38%    | 3      |           |                  |                  |
 | aak.cloud            | premium   | 68       | 32%    | 3      |           |                  |                  |
 | AandE.cloud          | available | 50       | 80%    | 7      |           |                  |                  |
 | aargh.cloud          | available | 56       | 76%    | 5      |           |                  |                  |
@@ -43,7 +43,7 @@ If you want to search & filters the complete database of [.CLOUD one word domain
 | abbreviate.cloud     | available | 92       | 76%    | 10     |           |                  |                  |
 | abbreviated.cloud    | available | 56       | 76%    | 11     |           |                  |                  |
 | abbreviater.cloud    | available | 56       | 72%    | 11     |           |                  |                  |
-| abc.cloud            | premium   | 102      | 92%    | 3      |           |                  |                  |
+| abc.cloud            | premium   | 102      | 41%    | 3      |           |                  |                  |
 | abcconjecture.cloud  | available | 56       | 4%     | 14     |           |                  |                  |
 | ABCexporter.cloud    | available | 43       | 72%    | 12     |           |                  |                  |
 | ABCguide.cloud       | available | 48       | 72%    | 9      |           |                  |                  |
