@@ -1,22 +1,22 @@
-# Available .CLOUD One-Word Domains (69,855)
+# Available .CLOUD One-Word Domains (70,211)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-10%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-69%2C855%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-70%2C211%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
 Daily-updated public extract of available and resale .cloud one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 10,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **69,855 domains** on the canonical page below.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **70,211 domains** on the canonical page below.
 
-**Public extract:** 10,000 rows · **Live catalog:** 69,855 domains
+**Public extract:** 1,000 rows · **Live catalog:** 70,211 domains
 
-**Last updated:** 2026-04-14  
+**Last updated:** 2026-04-27  
 **Canonical page:** `https://unique.domains/domains/tld/cloud`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .CLOUD one-word domain
 
 ### Files
 
-- `cloud.csv` — public CSV extract (10,000 rows)
-- `cloud.json` — public JSON extract (10,000 rows)
+- `cloud.csv` — public CSV extract (1,000 rows)
+- `cloud.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                 | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                     |
-| ---------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------- |
-| peerreview.cloud       | available | $32.98    | —             | 86             | 84     | 11     | namecheap                                     |
-| farming.cloud          | resell    | $189.75   | $39.99        | 88             | 76     | 7      | Spaceship, Inc.                               |
-| estate.cloud           | premium   | $1,300    | $1,300        | 100            | 92     | 6      | namecheap                                     |
-| swimwear.cloud         | available | $32.98    | —             | 68             | 84     | 8      | namecheap                                     |
-| organize.cloud         | resell    | $5,290    | $39.99        | 82             | 22     | 8      | Squarespace Domains II LLC                    |
-| training.cloud         | premium   | $1,250    | $1,250        | 70             | 88     | 8      | name.com                                      |
-| activewear.cloud       | available | $29.98    | —             | 68             | 84     | 10     | namecheap                                     |
-| TikTok.cloud           | resell    | —         | —             | 98             | 100    | 6      | Alibaba Cloud Computing Ltd.                  |
-| operations.cloud       | premium   | $6,250    | $6,250        | 58             | 88     | 10     | name.com                                      |
-| beekeeping.cloud       | available | $32.98    | —             | 56             | 84     | 10     | namecheap                                     |
-| breeze.cloud           | resell    | —         | —             | 62             | 96     | 6      | XIAMEN CHINASOURCE INTERNET SERVICE CO., LTD. |
-| cloudstorage.cloud     | premium   | $2,600    | $2,600        | 46             | 88     | 13     | namecheap                                     |
-| industrialdesign.cloud | available | $32.98    | —             | 56             | 84     | 17     | namecheap                                     |
-| sandbox.cloud          | resell    | —         | —             | 82             | 92     | 7      | Dynadot, LLC                                  |
-| Vehicles.cloud         | premium   | $650      | $650          | —              | 88     | 8      | namecheap                                     |
-| Abdulmalik.cloud       | available | $32.98    | —             | 46             | 84     | 10     | namecheap                                     |
-| beastmode.cloud        | resell    | —         | —             | 62             | 92     | 10     | OVH sas                                       |
-| pants.cloud            | premium   | $1,300    | $1,300        | 100            | 84     | 5      | namecheap                                     |
-| trigonometry.cloud     | available | $32.98    | —             | —              | 84     | 12     | namecheap                                     |
-| greener.cloud          | resell    | —         | —             | 58             | 92     | 7      | NAMECHEAP                                     |
+| domain                 | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
+| ---------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
+| carbonoffsetting.cloud | available | $32.98    | —             | 66             | 68     | 17     | namecheap           |
+| waverunner.cloud       | resell    | —         | —             | 64             | 80     | 10     | NAMECHEAP           |
+| coaching.cloud         | premium   | $1,300    | $1,300        | 64             | 84     | 8      | namecheap           |
+| SouthCarolina.cloud    | available | $32.98    | —             | 60             | 19     | 14     | namecheap           |
+| ummah.cloud            | resell    | —         | —             | 60             | 80     | 5      | NAMECHEAP           |
+| guns.cloud             | premium   | $3,500    | $7,000        | 68             | 22     | 4      | namecheap           |
+| oliveoil.cloud         | available | $32.98    | —             | 84             | 18     | 9      | namecheap           |
+| armedforces.cloud      | resell    | —         | —             | 50             | 80     | 12     | GoDaddy             |
+| poll.cloud             | premium   | $2,367.82 | —             | 70             | 21     | 4      | Tucows Domains Inc. |
+| greenbuilding.cloud    | available | $32.98    | —             | 72             | 16     | 14     | namecheap           |
+| sustainable.cloud      | resell    | —         | —             | 84             | 76     | 11     | GoDaddy             |
+| tabs.cloud             | premium   | $700      | $1,400        | 46             | 19     | 4      | namecheap           |
+| onemillion.cloud       | available | $32.98    | —             | 62             | 15     | 11     | namecheap           |
+| conventions.cloud      | resell    | —         | —             | 44             | 76     | 11     | GoDaddy             |
+| leaks.cloud            | premium   | $700      | $1,400        | 46             | 15     | 5      | namecheap           |
+| texting.cloud          | available | $32.98    | —             | 72             | 13     | 7      | namecheap           |
+| Godzilla.cloud         | resell    | —         | —             | 80             | 63     | 8      | Dynadot, LLC        |
+| ghosts.cloud           | premium   | $1,400    | $2,800        | 48             | 14     | 6      | namecheap           |
+| creates.cloud          | available | $5.29     | $25.99        | 60             | 13     | 7      | namesilo            |
+| donuts.cloud           | resell    | —         | —             | 54             | 62     | 6      | Epik LLC            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract           | Unique Domains                                   |
-| ------------------------ | ------------------------------------------------ |
-| 10,000-row public sample | 69,855 live domains                              |
-| Static CSV / JSON        | live search and daily refresh                    |
-| Basic exported fields    | deeper price, demand, risk, and workflow context |
-| No persistence           | Radar, saved search, and alerts                  |
-| No founder workflow      | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                                   |
+| ----------------------- | ------------------------------------------------ |
+| 1,000-row public sample | 70,211 live domains                              |
+| Static CSV / JSON       | live search and daily refresh                    |
+| Basic exported fields   | deeper price, demand, risk, and workflow context |
+| No persistence          | Radar, saved search, and alerts                  |
+| No founder workflow     | Project, shortlist, and next-step workflow       |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CLOUD One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CLOUD One-Word Domains*. Version 2026-04-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
