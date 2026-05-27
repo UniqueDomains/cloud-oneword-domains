@@ -1,6 +1,6 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at
 009f2001-9158-4012-886e-fc6a07b9697c,goastray.cloud,available,32.98,,66,1,9,namecheap,,
-01854c2a-5316-4364-adeb-3782c2b19b5b,filewith.cloud,available,32.98,,68,2,9,namecheap,,
+01854c2a-5316-4364-adeb-3782c2b19b5b,filewith.cloud,available,32.98,,68,1,9,namecheap,,
 01fb8798-ba4d-4e27-aa1b-dcc79337b572,behindschedule.cloud,available,32.98,,38,1,15,namecheap,,
 0218339b-6012-4f05-91f0-cff090cb3839,underestimated.cloud,available,32.98,,42,6,14,namecheap,,
 026d45c0-84de-410a-8d25-d67c32728e90,floodwaters.cloud,available,5.29,25.99,56,2,11,namesilo,,
@@ -32,7 +32,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 14b6b6bf-8f48-4ba0-bc7d-97fb3722b512,sameoldstuff.cloud,available,32.98,,34,1,14,namecheap,,
 151e3e1c-e4f8-4a04-bdd9-3b4311dd4d7e,scratches.cloud,premium,224,280,60,4,9,namecheap,,
 15a0cb63-dad4-426d-9e6a-f824e5bf33f4,barbedwire.cloud,available,32.98,,66,3,11,namecheap,,
-160fb315-b8c4-496d-9e42-d87f05b01d07,flashflooding.cloud,available,32.98,,52,0,14,namecheap,,
+160fb315-b8c4-496d-9e42-d87f05b01d07,flashflooding.cloud,available,32.98,,52,1,14,namecheap,,
 163bb9e5-1cee-48df-879c-d7b2e1cc9697,mortars.cloud,available,5.29,25.99,40,2,7,namesilo,,
 168e345a-990d-43d9-87fb-1eb59baf0b6a,throats.cloud,available,5.29,25.99,44,2,7,namesilo,,
 168eff91-27a0-4825-892e-c02e1324b151,keepoutof.cloud,available,32.98,,68,1,11,namecheap,,
@@ -98,7 +98,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 3b021b38-83c5-4644-b84f-67680e25e70c,lies.cloud,premium,700,1400,60,11,4,namecheap,,
 3b06a60a-4e60-4047-a07c-27a42b552bff,counterfeits.cloud,available,5.29,25.99,40,2,12,namesilo,,
 3b3ea298-8558-41cf-a72c-8d549a9fc9f6,postponement.cloud,available,32.98,,57,1,12,namecheap,,
-3c69ded5-7bd7-4cb0-804d-92a10564b9dc,privatelife.cloud,available,32.98,,78,4,12,namecheap,,
+3c69ded5-7bd7-4cb0-804d-92a10564b9dc,privatelife.cloud,available,32.98,,78,5,12,namecheap,,
 3cf193d3-2e04-4bc3-a4b2-7f76b7050c81,poll.cloud,premium,2367.82,,70,21,4,Tucows Domains Inc.,16/02/2016 15:00,16/02/2028 15:00
 3cfc92c3-5b7c-440e-8e7f-25896758ec31,sucks.cloud,premium,112,140,48,11,5,namecheap,,
 3e16a1c8-a828-4e02-a747-a60c0989440d,disobedience.cloud,available,32.98,,64,3,12,namecheap,,
@@ -193,7 +193,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 769c289b-1f89-4406-b4bd-ce3cddc95a8a,StGeorges.cloud,available,32.98,,54,6,10,namecheap,,
 773d58ba-ba1c-415a-b0fa-1f833e0c289b,segregation.cloud,available,32.98,,62,2,11,namecheap,,
 77c046cb-7fd9-439c-8fd1-2cb44d1122e1,goballistic.cloud,available,32.98,,68,2,12,namecheap,,
-789e522c-df14-4d97-ae53-e8cab627db54,breastcancer.cloud,available,32.98,,58,9,13,namecheap,,
+789e522c-df14-4d97-ae53-e8cab627db54,breastcancer.cloud,available,32.98,,58,11,13,namecheap,,
 7919e41e-740d-4dde-b45f-deaac070e8d9,Ithinkso.cloud,available,32.98,,58,3,10,namecheap,,
 792ce844-111f-4b00-94fc-00172293834c,chickensoup.cloud,available,32.98,,84,4,12,namecheap,,
 79ecfc63-2620-4ce8-a78d-d350660d386b,ingredients.cloud,resell,,,56,14,11,"HOSTINGER operations, UAB",18/04/2026 11:14,18/04/2027 11:14
@@ -223,7 +223,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 896e1911-b4ac-4e2b-a422-22d01b5c0008,rubbed.cloud,available,32.98,,62,2,6,namecheap,,
 89b7f9b0-aace-4420-b131-de55361bcd52,stuffyou.cloud,available,32.98,,44,1,9,namecheap,,
 89c74e44-f74f-4b97-b7d2-a9c443282c4d,childmurderer.cloud,available,32.98,,30,1,14,namecheap,,
-89cf9eff-8fe2-432d-a0e5-b28340ddaef7,distresscall.cloud,available,32.98,,32,1,13,namecheap,,
+89cf9eff-8fe2-432d-a0e5-b28340ddaef7,distresscall.cloud,available,32.98,,32,0,13,namecheap,,
 8a6cb564-ff67-4be6-a055-e91a666dd8f1,tirades.cloud,available,32.98,,46,1,7,namecheap,,
 8a890a09-54e9-48f5-affd-56cc72ce2a88,uptoanything.cloud,available,32.98,,52,1,14,namecheap,,
 8b17e387-2565-4fde-86e1-44c23d77221d,liberties.cloud,premium,112,140,56,6,9,namecheap,,
@@ -239,7 +239,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 9401ce7d-886c-41bb-bf82-9e7e6aaa71f2,oliveoil.cloud,available,32.98,,84,14,9,namecheap,,
 95ac0c08-80c8-44d0-880d-d4484ce9d61a,attend.cloud,resell,,,76,17,6,"Dynadot, LLC",29/04/2026 09:46,29/04/2027 09:46
 95e4f585-ecee-4392-84ae-1f36e16ac93e,trades.cloud,resell,,,71,26,6,"Spaceship, Inc.",10/12/2023 23:48,10/12/2026 23:48
-976d4720-b215-4c48-a830-8974e8613ee7,couldnotcareless.cloud,available,32.98,,38,0,19,namecheap,,
+976d4720-b215-4c48-a830-8974e8613ee7,couldnotcareless.cloud,available,32.98,,38,1,19,namecheap,,
 97fb1731-a0c7-459e-8620-340ff9d17436,clipart.cloud,resell,,,74,8,8,Porkbun LLC,22/03/2022 01:46,22/03/2028 01:46
 98221fcd-2b71-4e5b-9fc8-2d9633dee697,defaulted.cloud,available,5.29,25.99,42,2,9,namesilo,,
 9827e63b-fa04-47a7-9dd4-0f8c84df3fbd,quitting.cloud,available,32.98,,54,4,8,namecheap,,
@@ -286,7 +286,7 @@ b5bf3f6e-3ee4-4ca2-be91-a0c8ffb62bd1,motors.cloud,resell,,,50,18,6,Squarespace D
 b621c579-f6a1-48fc-a309-b6c15d90f8d4,flashfloods.cloud,available,5.29,25.99,42,1,12,namesilo,,
 b7d9a44c-5c1a-49d0-b5d0-832bbee6110e,paintthinner.cloud,available,32.98,,56,1,13,namecheap,,
 b8df9d36-aa9c-4ad2-97df-a66506d18ec0,seekers.cloud,resell,,,58,15,7,"Spaceship, Inc.",21/04/2026 08:56,21/04/2027 08:56
-b8e615c5-ecb9-487f-955c-b20bf72f5a59,godark.cloud,available,32.98,,68,5,7,namecheap,,
+b8e615c5-ecb9-487f-955c-b20bf72f5a59,godark.cloud,available,32.98,,68,6,7,namecheap,,
 b9b73eb3-0b25-4efd-9554-40fa371068be,deadonarrival.cloud,available,32.98,,46,2,15,namecheap,,
 b9d375ac-0d5a-436d-9056-c4e38f7cd19a,parkin.cloud,available,32.98,,59,8,7,namecheap,,
 b9e5dc21-d5fa-4a30-a739-299990ee618d,commonpractice.cloud,available,32.98,,66,4,15,namecheap,,
@@ -294,7 +294,7 @@ ba4b23cf-a3c2-4481-9328-3f2852a51187,shouts.cloud,available,32.98,,47,5,6,namech
 ba8cb943-9c40-4360-a6ae-685cb3c6b615,creates.cloud,available,5.29,25.99,60,13,7,namesilo,,
 bbe706c5-3542-4cc2-b384-ff1865bee9d3,dustbunnies.cloud,available,5.29,25.99,38,5,12,namesilo,,
 bc350b20-c231-4cde-ae5b-77a692844572,breastaugmentation.cloud,available,32.98,,66,5,19,namecheap,,
-bdfe8497-53e5-4db7-8f61-bbefd16772e9,indanger.cloud,available,32.98,,60,1,9,namecheap,,
+bdfe8497-53e5-4db7-8f61-bbefd16772e9,indanger.cloud,available,32.98,,60,2,9,namecheap,,
 bf264a78-d8ec-45aa-b25b-de82cf57ad6b,equals.cloud,available,5.29,25.99,62,10,6,namesilo,,
 c02bb0a4-769b-4948-872e-242655417491,arrests.cloud,available,32.98,,46,5,7,namecheap,,
 c2534b58-28cc-4566-8d89-a56c54a654ad,tbsp.cloud,available,32.98,,63,5,4,namecheap,,
@@ -304,7 +304,7 @@ c339a4ee-4b27-40fa-b0dc-cbcc05086d98,messed.cloud,available,32.98,,46,2,6,namech
 c37364ac-eac6-4229-8ae7-5d9b3b5a2627,stepin.cloud,resell,,,74,8,7,NAMECHEAP,21/08/2025 17:40,21/08/2026 17:40
 c554af6b-7215-4f82-bf89-7af6caf56469,fuel.cloud,resell,,,78,31,4,"Spaceship, Inc.",05/05/2026 17:06,05/05/2027 17:06
 c56e2e63-af02-47b6-8a65-61eb45b5f019,divorcing.cloud,available,32.98,,46,6,9,namecheap,,
-c59aac8f-f5e0-4e3b-81cd-67993f2b902e,filed.cloud,premium,112,140,48,7,5,namecheap,,
+c59aac8f-f5e0-4e3b-81cd-67993f2b902e,filed.cloud,premium,112,140,48,6,5,namecheap,,
 c65dc388-7259-441a-9967-f288c0aa5f9b,stalled.cloud,available,32.98,,48,3,7,namecheap,,
 c6f046af-09b4-4c4c-acdd-e7c4d4c6fa1e,mosquitoes.cloud,available,32.98,,42,4,10,namecheap,,
 c7027eb3-4416-4374-9eb0-835f20e4490f,keepunder.cloud,available,32.98,,66,0,10,namecheap,,
@@ -329,7 +329,7 @@ d35ce82c-2ebc-475e-a5f7-cfde4b11cc01,cheesedown.cloud,available,32.98,,62,0,11,n
 d3f9eeb2-576e-405f-9c85-6f6a307ebad0,spillover.cloud,available,32.98,,68,4,10,namecheap,,
 d412d7e1-c932-4b36-af6e-48fcf425c3b6,fullfrontalnudity.cloud,available,32.98,,48,1,19,namecheap,,
 d4a4ff85-d4ad-4f06-a877-9a1019295870,uncared.cloud,available,32.98,,57,1,7,namecheap,,
-d51532a8-e138-4274-8917-1bf18cc557ac,highend.cloud,resell,,,72,17,8,Porkbun LLC,16/12/2024 08:08,16/12/2026 08:08
+d51532a8-e138-4274-8917-1bf18cc557ac,highend.cloud,resell,,,72,19,8,Porkbun LLC,16/12/2024 08:08,16/12/2026 08:08
 d5f7a565-9da1-42d2-8fee-9829fd115fef,goberserk.cloud,available,32.98,,68,1,10,namecheap,,
 d5fff19b-30c8-47af-8276-5769b7a81325,aloevera.cloud,available,32.98,,80,10,9,namecheap,,
 d67a0272-10cb-4401-a89e-019431b96765,starkest.cloud,available,5.29,25.99,40,2,8,namesilo,,
@@ -393,7 +393,7 @@ f88a7750-4569-411e-98bf-9754ad71c736,gettingeven.cloud,available,32.98,,48,1,12,
 f8efe2bd-9b14-4684-9e18-858879cbbe87,criteria.cloud,resell,,,88,10,8,"Spaceship, Inc.",18/09/2025 02:13,18/09/2026 02:13
 f8ff05bd-b1e4-4ee9-a291-4cb833bb8fa8,sweatshop.cloud,available,32.98,,56,8,10,namecheap,,
 fa0857c9-ff98-4b1a-9c71-7379066ae185,motorsport.cloud,resell,,,74,23,10,"XIAMEN CHINASOURCE INTERNET SERVICE CO., LTD.",28/06/2025 02:56,28/06/2026 02:56
-fa51b20c-b464-4f78-a43f-fbb12ff5d3e8,inhouse.cloud,resell,,,70,23,8,"HOSTINGER operations, UAB",19/04/2026 08:40,19/04/2027 08:40
+fa51b20c-b464-4f78-a43f-fbb12ff5d3e8,inhouse.cloud,resell,,,70,24,8,"HOSTINGER operations, UAB",19/04/2026 08:40,19/04/2027 08:40
 fa5f2946-8a2c-49cb-b1a8-5c0e6e2b4932,suppresses.cloud,available,32.98,,44,1,10,namecheap,,
 facf007b-f713-46f2-8d28-d2e5c4496ceb,IamHIVpositive.cloud,available,32.98,,44,1,17,namecheap,,
 fb022e6a-736a-4a55-8947-ab7057b19435,noses.cloud,available,5.29,25.99,48,3,5,namesilo,,
