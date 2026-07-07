@@ -1,10 +1,10 @@
-# Available .CLOUD One-Word Domains (70,338)
+# Available .CLOUD One-Word Domains (70,341)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-70%2C338%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-70%2C341%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .cloud one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **70,338 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **70,341 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 70,338 domains · **Median ask:** $884.61 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 70,341 domains · **Median ask:** $396.25 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/cloud`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/cloud`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .CLOUD one-word domain
 
 ### Files
 
-- `cloud.csv` — public CSV extract (1,000 rows)
-- `cloud.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `cloud.csv`, public CSV extract (1,000 rows)
+- `cloud.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                 | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
-| ---------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
-| carbonoffsetting.cloud | available | $32.98    | —             | 66             | 68     | 17     | namecheap           |
-| ummah.cloud            | resell    | —         | —             | 60             | 80     | 5      | NAMECHEAP           |
-| coaching.cloud         | premium   | $1,300    | $1,300        | 64             | 84     | 8      | namecheap           |
-| SouthCarolina.cloud    | available | $32.98    | —             | 60             | 15     | 14     | namecheap           |
-| armedforces.cloud      | resell    | —         | —             | 50             | 80     | 12     | GoDaddy             |
-| guns.cloud             | premium   | $3,500    | $7,000        | 68             | 22     | 4      | namecheap           |
-| oliveoil.cloud         | available | $32.98    | —             | 84             | 14     | 9      | namecheap           |
-| sustainable.cloud      | resell    | —         | —             | 84             | 76     | 11     | GoDaddy             |
-| poll.cloud             | premium   | $2,367.82 | —             | 70             | 21     | 4      | Tucows Domains Inc. |
-| texting.cloud          | available | $32.98    | —             | 72             | 13     | 7      | namecheap           |
-| conventions.cloud      | resell    | —         | —             | 44             | 76     | 11     | GoDaddy             |
-| tabs.cloud             | premium   | $700      | $1,400        | 46             | 19     | 4      | namecheap           |
-| hangover.cloud         | available | $32.98    | —             | 62             | 13     | 9      | namecheap           |
-| Godzilla.cloud         | resell    | —         | —             | 80             | 63     | 8      | Dynadot, LLC        |
-| leaks.cloud            | premium   | $700      | $1,400        | 46             | 15     | 5      | namecheap           |
-| creates.cloud          | available | $5.29     | $25.99        | 60             | 13     | 7      | namesilo            |
-| donuts.cloud           | resell    | —         | —             | 54             | 62     | 6      | Epik LLC            |
-| ghosts.cloud           | premium   | $1,400    | $2,800        | 48             | 14     | 6      | namecheap           |
-| onemillion.cloud       | available | $32.98    | —             | 62             | 12     | 11     | namecheap           |
-| tesla.cloud            | resell    | —         | —             | 86             | 59     | 5      | Spaceship, Inc.     |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| urged.cloud   | available | $32.98    | —             | medium         | low    | 5      | namecheap       |
+| lets.cloud    | resell    | —         | —             | high           | medium | 4      | Dynadot, LLC    |
+| brow.cloud    | premium   | $224      | $280          | medium         | low    | 4      | namecheap       |
+| hardly.cloud  | available | $32.98    | —             | high           | low    | 6      | namecheap       |
+| usmc.cloud    | resell    | —         | —             | medium         | high   | 4      | GoDaddy         |
+| cord.cloud    | premium   | $224      | $280          | high           | low    | 4      | namecheap       |
+| mouthy.cloud  | available | $32.98    | —             | medium         | low    | 6      | namecheap       |
+| ummah.cloud   | resell    | —         | —             | medium         | high   | 5      | NAMECHEAP       |
+| mode.cloud    | premium   | $700      | $1,400        | high           | low    | 4      | namecheap       |
+| sailed.cloud  | available | $32.98    | —             | medium         | low    | 6      | namecheap       |
+| factor.cloud  | resell    | —         | —             | medium         | low    | 6      | Spaceship, Inc. |
+| wife.cloud    | premium   | $224      | $280          | high           | low    | 4      | namecheap       |
+| howfar.cloud  | available | $5.29     | $25.99        | medium         | low    | 7      | namesilo        |
+| palace.cloud  | resell    | —         | —             | medium         | low    | 6      | Dynadot, LLC    |
+| bloom.cloud   | premium   | $700      | $1,400        | high           | medium | 5      | namecheap       |
+| kicking.cloud | available | $32.98    | —             | high           | low    | 7      | namecheap       |
+| durable.cloud | resell    | —         | —             | high           | low    | 7      | NAMECHEAP       |
+| enter.cloud   | premium   | $700      | $1,400        | high           | low    | 5      | namecheap       |
+| needing.cloud | available | $5.29     | $25.99        | high           | low    | 7      | namesilo        |
+| ethical.cloud | resell    | —         | —             | high           | low    | 7      | Epik LLC        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 70,338 live domains                        |
+| 1,000-row public sample | 70,341 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely focused on one-word .cloud domains. The names range from broad dictionary terms such as precaution.cloud and organize.cloud to punchier brandable options like rewatch.cloud and moped.cloud. For founders, the main question is whether the word is memorable, easy to say, and specific enough to support a product or company without feeling narrow. For investors, the key test is whether the ask leaves room relative to keyword clarity and likely end-user appeal. The median ask is 884.61, so price discipline matters. When comparing these domains, weigh word quality, category fit, and the renewal profile of the .cloud extension before deciding which names deserve a shortlist.
+This is a curated list of one-word .cloud domain names, from short common nouns to name-brand-style terms. Examples in this set include enable.cloud, oliveoil.cloud, gettogether.cloud, and criteria.cloud, illustrating the range from purely descriptive to distinctly brandable. With 70,341 domains in this .cloud set and a median ask near $396.25, pricing spans from budget-friendly to premium ask levels. Investors comparing renewal costs and TLD footprint, and founders searching for a memorable, ownable name, can both use these traits to narrow a shortlist.
 
-- One-word .cloud names only, from broad terms to niche keywords
-- Median ask: 884.61 across 70,286 listed domains
-- Examples include detox.cloud, ipo.cloud, and organize.cloud
-- Prioritize clarity, memorability, and extension fit
+- 70,341 one-word .cloud domain names in this set
+- Median ask near $396.25 across the selection
+- Mix of common words, brand-style, and coined terms
+- Updated daily to reflect current asking prices
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CLOUD One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CLOUD One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
