@@ -1,10 +1,10 @@
-# Available .CLOUD One-Word Domains (71,264)
+# Available .CLOUD One-Word Domains (71,607)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-71%2C264%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-71%2C607%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .cloud one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **71,264 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **71,607 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 71,264 domains · **Median ask:** $294.31 · **High-demand under $2,500:** 232
+**Public extract:** 1,000 rows · **Live catalog:** 71,607 domains · **Median ask:** $282.01 · **High-demand under $2,500:** 231
 
-**Last updated:** 2026-08-12
+**Last updated:** 2026-08-13
 **Canonical page:** `https://unique.domains/domains/tld/cloud`
 **Best for:** founders, investors, studios
 
@@ -73,16 +73,16 @@ print(df.head())
 | aguish.cloud  | available | $3.98     | $32.98        | low            | low    | 6      | namecheap       |
 | ummah.cloud   | resell    | —         | —             | medium         | high   | 5      | NAMECHEAP       |
 | mode.cloud    | premium   | $700      | $1,400        | high           | low    | 4      | namecheap       |
-| hardly.cloud  | available | $32.98    | —             | high           | low    | 6      | namecheap       |
+| chaste.cloud  | available | $3.98     | $32.98        | medium         | low    | 6      | namecheap       |
 | factor.cloud  | resell    | —         | —             | medium         | low    | 6      | Spaceship, Inc. |
 | wife.cloud    | premium   | $224      | $280          | high           | low    | 4      | namecheap       |
-| lxviii.cloud  | available | $3.98     | $32.98        | low            | low    | 6      | namecheap       |
+| hardly.cloud  | available | $32.98    | —             | high           | low    | 6      | namecheap       |
 | palace.cloud  | resell    | —         | —             | medium         | low    | 6      | Dynadot, LLC    |
 | bloom.cloud   | premium   | $700      | $1,400        | high           | medium | 5      | namecheap       |
-| lxxxvi.cloud  | available | $3.98     | $32.98        | low            | low    | 6      | namecheap       |
+| lxviii.cloud  | available | $3.98     | $32.98        | low            | low    | 6      | namecheap       |
 | durable.cloud | resell    | —         | —             | high           | low    | 7      | NAMECHEAP       |
 | enter.cloud   | premium   | $700      | $1,400        | high           | low    | 5      | namecheap       |
-| mouthy.cloud  | available | $32.98    | —             | medium         | low    | 6      | namecheap       |
+| lxxxvi.cloud  | available | $3.98     | $32.98        | low            | low    | 6      | namecheap       |
 | ethical.cloud | resell    | —         | —             | high           | low    | 7      | Epik LLC        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 71,264 live domains                        |
+| 1,000-row public sample | 71,607 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 232 high-demand names under $2,500         |
+| Basic exported fields   | 231 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CLOUD One-Word Domains*. Version 2026-08-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CLOUD One-Word Domains*. Version 2026-08-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
