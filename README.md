@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .cloud one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 74,201 domains · **Median ask:** $220.73 · **High-demand under $2,500:** 228
 
-**Last updated:** 2026-08-24
+**Last updated:** 2026-08-25
 **Canonical page:** `https://unique.domains/domains/tld/cloud`
 **Best for:** founders, investors, studios
 
@@ -67,7 +67,7 @@ print(df.head())
 | xlvi.cloud    | available | $3.98     | $32.98        | low            | low    | 4      | namecheap       |
 | lets.cloud    | resell    | —         | —             | high           | medium | 4      | Dynadot, LLC    |
 | fab.cloud     | premium   | $1,300    | $2,600        | medium         | low    | 3      | namecheap       |
-| urged.cloud   | available | $3.98     | $32.98        | medium         | low    | 5      | namecheap       |
+| urged.cloud   | available | $3.98     | $32.98        | low            | low    | 5      | namecheap       |
 | usmc.cloud    | resell    | —         | —             | medium         | high   | 4      | GoDaddy         |
 | brow.cloud    | premium   | $224      | $280          | medium         | low    | 4      | namecheap       |
 | aguish.cloud  | available | $3.98     | $32.98        | low            | low    | 6      | namecheap       |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CLOUD One-Word Domains*. Version 2026-08-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CLOUD One-Word Domains*. Version 2026-08-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
