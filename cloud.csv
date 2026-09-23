@@ -3,7 +3,7 @@ ff4850e8-c5df-4859-94de-a1dc437910c7,larns.cloud,available,,,low,low,5,,,,
 39639af9-1aeb-4858-8da3-d59af07641cc,runningout.cloud,available,,,low,low,11,,,,
 c7679de9-7fad-4601-a99e-acd152a7ab5b,ferryhillstation.cloud,available,,,medium,low,17,,,,
 24ddd699-8264-4457-98d5-33803c67ab79,wipeoff.cloud,available,,,medium,high,8,,,,
-26bd17f3-b28d-4f8a-bf3a-d12c800c586c,packer.cloud,available,,,medium,high,6,,,,
+26bd17f3-b28d-4f8a-bf3a-d12c800c586c,packer.cloud,available,3.98,32.98,medium,low,6,namecheap,,,21/09/2026 15:45
 03e50ae6-8165-4b89-8a88-26d3ef0e1557,ummah.cloud,resell,,,medium,high,5,NAMECHEAP,13/02/2025 17:10,13/02/2026 17:10,
 80d3fa33-4efe-4607-a02c-20920c438271,coughmuscle.cloud,available,,,low,high,12,,,,
 4c9c0ff2-7d16-4731-9c65-b51ab7b75387,catchwords.cloud,available,,,medium,low,10,,,,
@@ -55,7 +55,6 @@ c2d746ce-bd08-444b-ba06-5172225d6377,farmersbranch.cloud,available,,,medium,high
 c356faa4-07ec-4e02-a65f-9637c0e8458e,redbeanpaste.cloud,available,,,low,low,14,,,,
 6d1ec0f7-aeff-421d-97f2-2238586eb75f,firstcity.cloud,available,,,medium,high,10,,,,
 c9ea2018-2f69-46d2-b39f-fa8d9fd69d4b,premised.cloud,available,,,medium,high,8,,,,
-409b7d32-08f9-4b12-a293-102b79374ea6,durable.cloud,resell,,,high,low,7,NAMECHEAP,04/08/2016 20:53,04/08/2026 20:53,
 6cb94fde-d02a-4136-9a8b-a7e00b83f899,insufficient.cloud,available,5.29,25.99,medium,low,12,namesilo,,,
 088be19d-0771-4634-801e-0ec18cb8664c,wellpleased.cloud,available,,,medium,high,12,,,,
 1a97de89-5941-462b-80f7-3b0f3ec17356,raspberryrose.cloud,available,,,medium,high,14,,,,
@@ -68,7 +67,7 @@ facb2f42-e8c8-47f7-8b15-34f35e72aedd,decisionheight.cloud,available,,,medium,hig
 8bec9c42-94de-42b1-8608-5a1037ec37de,indole.cloud,available,,,high,high,6,,,,
 87aff0c2-4da4-45ae-bdfb-faa0fb48be02,luckily.cloud,available,3.98,32.98,medium,low,7,namecheap,,,13/09/2026 21:22
 8530543c-afbe-4f2a-99ca-7ce16d5c7c8b,lunchmeat.cloud,available,5.29,25.99,high,low,10,namesilo,,,
-09816619-53df-490e-b401-be24e8b3be10,axehandle.cloud,available,,,medium,high,10,,,,
+09816619-53df-490e-b401-be24e8b3be10,axehandle.cloud,available,5.29,25.99,medium,low,10,namesilo,,,21/09/2026 10:19
 5094399d-f6e8-4621-9a0b-143d3a1a58b4,couchpotato.cloud,available,,,medium,high,12,,,,
 cdd05575-7fab-4662-993b-854ae300d4e2,pieceofwork.cloud,available,,,medium,high,13,,,,
 e12d8b27-d210-43fd-ac31-a8e7d1e81134,guardboat.cloud,available,,,medium,high,10,,,,
@@ -142,7 +141,7 @@ c4f49ece-fd3c-4ced-9878-ec626b0fd4bc,extinction.cloud,available,5.29,25.99,mediu
 7d09486e-9b7c-4099-82f6-d1907bcc202c,leanin.cloud,available,,,high,high,7,,,,
 9cb5a1da-4cc3-4741-a55f-f3f4bf5048b0,springmix.cloud,available,,,medium,high,10,,,,
 b0c0895e-0763-434b-b034-055fa3fa1365,selfactivity.cloud,available,,,medium,high,13,,,,
-d9c543fc-7fb8-45c6-b18e-ff64c86ceeef,weakened.cloud,available,5.29,25.99,medium,low,8,namesilo,,,
+d9c543fc-7fb8-45c6-b18e-ff64c86ceeef,weakened.cloud,available,5.29,25.99,low,low,8,namesilo,,,22/09/2026 11:29
 f1c69882-f310-4c88-a911-2beb47cfdb71,sustainable.cloud,resell,,,high,high,11,GoDaddy,11/05/2019 07:28,11/05/2027 07:28,19/09/2026 14:28
 0272ffe9-7072-4411-ba1b-0fa0b007124f,kinkiness.cloud,available,,,medium,low,9,,,,
 a1bd438e-eb27-4e78-9d91-c8ce39cd9b5b,xenomorph.cloud,available,,,medium,high,9,,,,
@@ -177,10 +176,10 @@ b1af860f-2ce9-475e-bc23-f65e40a07fbe,shearling.cloud,available,,,medium,high,9,,
 26b5b6fc-84b5-44ae-bbc4-9262672aca66,racewalking.cloud,available,,,medium,high,12,,,,
 e4897c15-53ba-4ea7-ae26-e686cada47d2,engarde.cloud,available,3.98,32.98,low,low,8,namecheap,,,16/08/2026 21:05
 17724df8-7b07-4b03-b9a2-d3016324f16f,millabout.cloud,available,3.98,32.98,low,low,10,namecheap,,,11/09/2026 08:40
-30f9151a-0a2a-4ca2-ae3f-c5315ab187d3,bearing.cloud,premium,112,140,high,low,7,namecheap,,,
+30f9151a-0a2a-4ca2-ae3f-c5315ab187d3,bearing.cloud,premium,104,130,medium,low,7,namecheap,,,22/09/2026 18:34
 18ec2e62-e9ab-4949-bf66-3105b19fe50c,subgenre.cloud,available,,,medium,high,8,,,,
 c9efa211-fdd6-437c-98ca-c18ef214f5e5,logicfallacy.cloud,available,,,medium,high,13,,,,
-aa42bb80-4db1-41de-868c-fee8178c77c2,aztecan.cloud,available,,,high,high,7,,,,
+aa42bb80-4db1-41de-868c-fee8178c77c2,aztecan.cloud,available,5.29,25.99,medium,low,7,namesilo,,,21/09/2026 11:37
 e8bd1d41-d0bb-4521-9e5d-7e43f8fb7133,modifications.cloud,available,,,medium,low,13,,,,
 1d16cfd4-fa80-44f4-bdaa-d68b9e3570d1,sandyblonde.cloud,available,,,medium,high,12,,,,
 cd16b5ce-545b-4122-96ba-de02db6dc12f,sites.cloud,premium,1300,2600,low,low,5,namecheap,,,18/09/2026 21:00
@@ -287,7 +286,7 @@ e4197c71-ecd2-4208-87c3-3c7f970fbad5,cargodeck.cloud,available,,,medium,high,10,
 55b5dcfb-cb4e-40aa-8a32-17520cd91087,preconceptions.cloud,available,,,low,low,14,,,,
 c7033093-b22c-4919-915c-93927128737c,portioners.cloud,available,,,low,low,10,,,,
 dd11378a-7cca-451f-8d86-08631ad9ee5b,citizenmagistrate.cloud,available,,,low,high,18,,,,
-8fb0225b-697a-4ff8-aed5-284dd2ba7dc3,autopart.cloud,available,,,medium,high,9,,,,
+8fb0225b-697a-4ff8-aed5-284dd2ba7dc3,autopart.cloud,available,3.98,32.98,low,low,9,namecheap,,,21/09/2026 05:40
 c5897499-9719-4535-86d0-bb36def78a2b,congressional.cloud,available,,,medium,high,13,,,,
 ff7ed38b-0e56-4b6a-826e-dcab5669c81c,substantiation.cloud,available,,,low,low,14,,,,
 bf42ceaf-8667-4e46-b57d-1a9498f7906c,masonjar.cloud,available,,,medium,high,9,,,,
@@ -345,7 +344,7 @@ d8e6610a-08ff-4542-9149-4a25348e88b4,fortnassau.cloud,available,,,medium,low,11,
 8552e3ca-e2db-4a71-84d5-f9791b4004d5,sagebrush.cloud,available,,,medium,high,9,,,,
 9b8c5fbe-0c40-437a-8336-b8ffb2a276a3,lxxxvi.cloud,available,3.98,32.98,low,low,6,namecheap,,,
 235554f0-d894-4528-bc4a-0137a22f2d54,hungarian.cloud,premium,520,650,low,low,9,namecheap,,,21/08/2026 15:39
-851d9d2e-50b7-449b-8aef-b7071c17fa60,assumption.cloud,available,,,medium,high,10,,,,
+851d9d2e-50b7-449b-8aef-b7071c17fa60,assumption.cloud,available,3.98,32.98,low,low,10,namecheap,,,20/09/2026 16:39
 7d682012-9521-47b0-81ad-1c6df507b7ba,diatomic.cloud,available,3.98,32.98,low,low,8,namecheap,,,14/08/2026 06:19
 20547cb0-46b6-46f1-9e61-db78638f12bb,dentistry.cloud,premium,,,medium,high,9,Squarespace Domains II LLC,16/08/2022 00:00,16/08/2028 00:00,
 59d2974f-f45d-4c63-88c7-33758f445ba0,therearound.cloud,available,,,low,low,11,,,,
@@ -356,7 +355,7 @@ ea2d0388-bfab-4013-a638-75080f4057d1,preamble.cloud,available,,,high,high,8,,,,
 05c1fe06-fe20-4e49-ba67-cb1600847698,chaste.cloud,available,3.98,32.98,medium,low,6,namecheap,,,12/08/2026 03:11
 dd2fa66d-f12b-4e41-92c9-e134c8e122ed,unpaid.cloud,available,3.98,32.98,low,low,6,namecheap,,,
 12cb490d-facf-44ea-8d9a-69174a2a58f6,personhour.cloud,available,,,medium,high,11,,,,
-ce7c5769-db6b-4790-bde6-35a229c906f5,bloom.cloud,premium,700,1400,high,medium,5,namecheap,,,
+ce7c5769-db6b-4790-bde6-35a229c906f5,bloom.cloud,premium,1107,1107,medium,low,5,namesilo,,,22/09/2026 22:34
 2faddca0-1d3b-4a7b-807c-ee1efb95f5fe,nasadeveloped.cloud,available,,,low,low,14,,,,
 d2fe5f73-d821-4488-a276-320ae34db380,fradley.cloud,available,,,medium,high,7,,,,
 c654fa67-08df-4a11-ab1e-1d140418f8a1,sophomores.cloud,available,,,medium,low,10,,,,
@@ -409,7 +408,6 @@ a66fa9d6-826a-4e2e-afc7-c113ea2d45b5,bakercounty.cloud,available,,,medium,low,12
 da314e39-28fc-48f6-8271-07514eecc95b,stagecrew.cloud,available,,,medium,high,10,,,,
 4d15401a-9769-4018-aa5d-4e72dd0d9111,purplejudge.cloud,available,,,medium,high,12,,,,
 3b8f8366-77fb-4e52-ad27-8a8cea23b9a6,bottleepisode.cloud,available,,,medium,high,14,,,,
-ff205719-d5c0-4855-9373-04c85e4d9270,bahrein.cloud,available,,,medium,medium,7,,,,
 e251b0ac-ca4a-4050-9159-6e749eb7476b,gaillardia.cloud,available,,,medium,medium,10,,,,
 4d3b5509-0c42-44e0-9dde-bda50e97e074,freda.cloud,available,,,medium,high,5,,,,
 f1cea859-51b2-47b1-81c8-7c3a627c0f37,xlvi.cloud,available,3.98,32.98,low,low,4,namecheap,,,
@@ -417,7 +415,7 @@ f1cea859-51b2-47b1-81c8-7c3a627c0f37,xlvi.cloud,available,3.98,32.98,low,low,4,n
 fbca5539-c989-4a0c-b107-f5b6e421a413,grampus.cloud,available,,,medium,high,7,,,,
 e2a9183e-4968-41a4-9bd8-1869754523ae,subdirectory.cloud,available,,,medium,high,12,,,,
 0a693a7a-34cf-46cd-a037-4e28c2035e7d,coolingfan.cloud,available,,,medium,medium,11,,,,
-70b5af7b-e6d6-4450-9cd8-680c798b66a2,grandfathers.cloud,available,5.29,25.99,medium,low,12,namesilo,,,
+70b5af7b-e6d6-4450-9cd8-680c798b66a2,grandfathers.cloud,available,5.29,25.99,medium,low,12,namesilo,,,20/09/2026 22:52
 fa515f62-bbce-4ec5-a36f-2e91d99a742e,catcherupper.cloud,available,,,medium,high,13,,,,
 6690c3b2-60c0-4d0a-958b-2dd3fcea824a,points.cloud,premium,700,1400,medium,low,6,namecheap,,,
 5893dd99-4fea-46b7-8676-07e161d5b815,mobilegame.cloud,available,,,high,high,11,,,,
@@ -437,7 +435,7 @@ e3a39519-5c86-4f01-a380-8c109eb0c0d2,handshakes.cloud,available,,,medium,medium,
 d8baec5b-e8d7-4393-b8b0-36646be8d624,indoaryan.cloud,available,3.98,32.98,low,low,10,namecheap,,,06/08/2026 23:56
 4a58d26d-9395-4a8d-9e76-fb4c29622933,ancientroman.cloud,available,,,high,high,13,,,,
 ba992d8d-3ba3-4365-ab5c-e343bca4c82c,phonelike.cloud,available,,,medium,high,9,,,,
-8509a435-666a-4f1b-8dd9-e7b45057fbc0,babyrousa.cloud,available,,,medium,high,9,,,,
+8509a435-666a-4f1b-8dd9-e7b45057fbc0,babyrousa.cloud,available,5.29,25.99,low,low,9,namesilo,,,21/09/2026 13:53
 92152dd4-ecae-4d4a-97ce-bd1f87dc071d,carouse.cloud,available,,,high,high,7,,,,
 c74a7239-9637-456a-ac2b-39c363a15b30,mintimperial.cloud,available,,,medium,high,13,,,,
 e2a63ff0-d2a4-42ea-ac0e-1da8663e1ff0,gazillionaire.cloud,available,,,medium,high,13,,,,
@@ -566,7 +564,7 @@ c18fab44-5426-40e8-8b42-0a76640bc835,beautyspot.cloud,available,,,high,high,11,,
 4252defe-150b-416c-b63d-70a9f26e763b,arthistorical.cloud,available,,,medium,high,14,,,,
 1bd75b19-5a8c-4966-8ff2-15902a63ecbc,manxman.cloud,available,,,medium,high,7,,,,
 046d336a-eb32-4adb-b7ba-b94f74040eae,antidoping.cloud,available,,,medium,high,11,,,,
-dec12fed-1e4a-4a5a-8774-b782270ec498,bloodvessels.cloud,available,5.29,25.99,medium,low,13,namesilo,,,
+dec12fed-1e4a-4a5a-8774-b782270ec498,bloodvessels.cloud,available,3.98,32.98,low,low,13,namecheap,,,20/09/2026 04:31
 31b27d17-fce0-4b82-993a-ca7013d5a131,interceptor.cloud,available,,,medium,high,11,,,,
 4bbe4cbc-e4b9-44f2-b60f-030e9673cf5a,jester.cloud,available,,,medium,high,6,,,,
 e3c6ce4d-b6c6-41f1-845d-e941ada56c1c,partick.cloud,available,,,medium,high,7,,,,
@@ -619,13 +617,13 @@ b73cf506-0b51-40f6-a0ea-cfe8f12ef3c5,vesselsink.cloud,available,,,medium,high,11
 cd64a16d-b4e3-4280-b3fd-41f87f7b2c95,benzyl.cloud,available,,,medium,high,6,,,,
 892e6936-41da-4067-9953-a1435584d5cd,longsight.cloud,available,,,medium,high,10,,,,
 2f514490-38be-46ba-b15b-9fa704a3cbeb,nanorobotics.cloud,available,,,medium,medium,12,,,,
-b056f88a-65f0-4524-9da0-5632a9fa7ca4,aythya.cloud,available,,,medium,high,6,,,,
+b056f88a-65f0-4524-9da0-5632a9fa7ca4,aythya.cloud,available,5.29,25.99,low,low,6,namesilo,,,21/09/2026 10:45
 ea74342b-df8a-437f-9ee1-1a227c72c8c9,cherrycake.cloud,available,,,medium,high,11,,,,
 9ebb5975-da62-4fec-b0a0-07266f8385ce,bumping.cloud,available,,,medium,high,7,,,,
 39e21e45-1fe8-4b3e-850e-071a45006e4b,springchicken.cloud,available,,,medium,high,14,,,,
 3bbce3fc-1941-4a67-b7db-e2511e84753c,floataround.cloud,available,,,medium,high,12,,,,
 8c3f171e-2906-4e69-95b2-12f48dff718d,seeking.cloud,available,,,high,high,7,,,,
-a3602c6b-6373-4c7e-8753-5cdb8c898b33,accesscode.cloud,available,,,medium,high,11,,,,
+a3602c6b-6373-4c7e-8753-5cdb8c898b33,accesscode.cloud,available,,,high,high,11,,,,
 88d83a4f-eed2-4a8d-887c-f10c8ea7538b,rascality.cloud,available,,,medium,high,9,,,,
 8f9b8acf-417f-462d-8bd3-39fe21f9f648,ihaveadisability.cloud,available,32.98,,medium,low,19,namecheap,,,
 9f0b4088-af8e-4dcc-bb21-73b2ab1e4da0,impeccable.cloud,available,3.98,32.98,medium,low,10,namecheap,,,18/08/2026 00:09
@@ -647,7 +645,7 @@ d88d9994-6dc5-4217-894e-1bcfe1c4c295,kitchenroll.cloud,available,,,medium,low,12
 7573b1fc-83b7-4fcd-bbe8-723be13a8dbf,repairman.cloud,available,,,medium,high,9,,,,
 22d01bca-ad2b-4637-b8fd-6cee095b764c,holdmybeer.cloud,available,,,medium,high,12,,,,
 41934509-1d2c-4593-b7f6-43b1ff5f9994,annarbour.cloud,available,,,medium,high,9,,,,
-5b257d0b-e36e-4246-8a4a-d1bac33ca053,accounting.cloud,premium,3250,6500,low,low,10,namecheap,,,16/09/2026 23:08
+5b257d0b-e36e-4246-8a4a-d1bac33ca053,accounting.cloud,premium,3250,6500,medium,low,10,namecheap,,,16/09/2026 23:08
 70b1cd41-8aef-4a42-9ce5-7eadf2ebf08a,likeclockwork.cloud,available,,,medium,high,14,,,,
 885da063-8328-46f3-a1ab-1dcd479f5b6e,umbrellapalm.cloud,available,,,medium,high,13,,,,
 17d610ae-d312-424e-a91d-c02d675cda99,backtranslation.cloud,available,,,medium,high,16,,,,
@@ -668,7 +666,7 @@ cf4e6c86-4718-4bb3-8415-d18382267e93,europeanwildcat.cloud,available,,,medium,hi
 70e31775-f0e0-4c3f-ba87-ba5bc3e795e8,aperitif.cloud,available,5.29,25.99,medium,low,8,namesilo,,,19/09/2026 16:32
 3049451a-a0f9-4989-86dc-1ff6de13b070,sodashop.cloud,available,,,medium,low,9,,,,
 57b9c7dd-138a-4b50-8012-2a5beb2364c4,realmarket.cloud,available,,,medium,high,11,,,,
-12176560-ee92-465d-82dc-9e965725e117,swimwear.cloud,available,32.98,,medium,high,8,namecheap,,,
+12176560-ee92-465d-82dc-9e965725e117,swimwear.cloud,available,5.29,25.99,medium,low,8,namesilo,,,22/09/2026 13:39
 67485fa8-39f7-4cfa-b7cd-da02b43c844d,enterthescene.cloud,available,32.98,,medium,low,15,namecheap,,,
 721b8278-cedb-4038-8d7a-f968384d042e,praline.cloud,available,,,medium,high,7,,,,
 a798745c-bdce-4934-bb99-e09132e721fa,swedish.cloud,premium,208,260,medium,low,7,namecheap,,,11/09/2026 05:29
@@ -726,7 +724,7 @@ b79d7443-4aed-41c5-aa42-e4eaee74e236,auxetic.cloud,available,3.98,32.98,medium,l
 b5b241ba-d459-4891-964c-77191bdb469f,dreadlock.cloud,available,,,high,high,9,,,,
 fb5259fc-5b41-4e7f-a6c0-4abeafd7dc1a,plains.cloud,available,,,medium,high,6,,,,
 6a8cf92d-ee2a-44c7-ac00-6da1dc9a19e1,firehalls.cloud,available,,,low,low,10,,,,
-371926d9-e36f-453f-a7b8-8a5785056db9,bacterial.cloud,available,5.29,25.99,medium,low,9,namesilo,,,
+371926d9-e36f-453f-a7b8-8a5785056db9,bacterial.cloud,available,5.29,25.99,medium,low,9,namesilo,,,22/09/2026 16:00
 0ab27225-dcd9-4dc9-9653-564fe925d41f,cuegame.cloud,available,,,medium,high,8,,,,
 2fc53d64-fc29-492e-9933-209743fd3944,chieflegalofficer.cloud,available,,,medium,high,19,,,,
 b456d7b4-a235-4575-88a2-3282770f171b,gortyn.cloud,available,,,medium,high,6,,,,
@@ -756,7 +754,7 @@ ae4c79ab-2a48-4d4f-802b-b0d673d3ac62,blog.cloud,available,,,medium,high,4,,,,
 0192b00f-b92c-4f5e-8130-2a678358d0c1,fundamentals.cloud,available,5.29,25.99,medium,low,12,namesilo,,,17/09/2026 09:40
 61b73583-d437-4b66-935d-a1b1797fe3a1,reignite.cloud,available,,,medium,high,8,,,,
 8056cc87-cffa-4398-944a-b8c624166101,fursuit.cloud,available,,,high,high,7,,,,
-5a66c9af-bee1-4001-b445-8718d69aadd3,abovethescroll.cloud,available,5.29,25.99,medium,low,16,namesilo,,,
+5a66c9af-bee1-4001-b445-8718d69aadd3,abovethescroll.cloud,available,5.29,25.99,low,low,16,namesilo,,,
 4cb0ee19-240b-4d80-aa40-d7f932bddb06,cord.cloud,premium,224,280,high,low,4,namecheap,,,
 287a249d-a7b9-4858-a54a-d12c631e1d44,admire.cloud,available,,,medium,high,6,,,,
 c3b0df91-5acd-44a1-afe6-a172246ddc1a,greatbridgeford.cloud,available,,,medium,high,16,,,,
@@ -850,7 +848,7 @@ fbe61fe3-92d0-4e6d-be49-7f2f56efe71a,parallelogram.cloud,available,,,medium,high
 3377fc22-f390-463a-94c8-a1406d1c038b,houseplant.cloud,available,,,medium,high,10,,,,
 2028f519-17ad-476e-bc46-eac40a1ebf28,howfar.cloud,available,5.29,25.99,medium,low,7,namesilo,,,
 4638a424-2f44-47cf-8f49-bfebcff0b80f,palmsugar.cloud,available,29.98,,medium,high,10,namecheap,,,
-265aa5f4-01bc-4094-a6ca-e7c139844ec5,basle.cloud,available,,,medium,high,5,,,,
+265aa5f4-01bc-4094-a6ca-e7c139844ec5,basle.cloud,available,5.29,25.99,low,low,5,namesilo,,,22/09/2026 10:14
 b2c63966-3666-4aba-842e-8912851d247f,hiveofindustry.cloud,available,,,medium,low,16,,,,
 0e7a6f93-dc4a-4478-8adf-a49e7a989643,seminal.cloud,available,3.98,32.98,medium,low,7,namecheap,,,18/08/2026 22:51
 b1842840-211b-4281-8094-92edbdfb65d1,tradesunion.cloud,available,,,medium,high,12,,,,
@@ -872,7 +870,7 @@ a946b14b-7026-4296-aa54-261336bd2453,scienceroom.cloud,available,,,medium,high,1
 18926470-7fd1-48d8-ba51-422c189e5c52,freshyeast.cloud,available,,,medium,high,11,,,,
 93c9facd-61ca-485c-919f-a2273681521d,greensoap.cloud,available,,,medium,high,10,,,,
 19b625be-c20c-44c6-b5e6-5fdccb0ab8fe,lightpole.cloud,available,,,medium,high,9,,,,
-dfb56482-573c-4194-a10a-a6a509c38077,basemetal.cloud,available,,,medium,high,10,,,,
+dfb56482-573c-4194-a10a-a6a509c38077,basemetal.cloud,available,5.29,25.99,low,low,10,namesilo,,,22/09/2026 09:56
 52a64560-1537-4ad4-adca-105ea80dc20d,thingamajig.cloud,available,,,medium,high,11,,,,
 64667765-cde8-406b-9010-c3cf639b072a,doubtless.cloud,available,3.98,32.98,medium,low,9,namecheap,,,14/09/2026 13:54
 67cdd24e-a46d-4746-b0bb-9bd6e6ccf9d8,mentioned.cloud,available,5.29,25.99,medium,low,9,namesilo,,,
@@ -927,6 +925,7 @@ bd1b4177-afc8-4e9e-90fc-0c81efc63298,generalizing.cloud,available,,,low,low,12,,
 666b2a90-b689-4874-bb78-98befeac5a84,closeranks.cloud,available,,,medium,high,11,,,,
 bb633a77-7617-486c-aa43-908c951ddf98,freegard.cloud,available,,,medium,high,8,,,,
 ca3eba01-fa4b-4f0b-8a3c-d24f95065485,oralhygiene.cloud,available,,,medium,high,12,,,,
+2bd592a0-a76c-4f0d-a453-ca365bacc740,medium.cloud,resell,,,medium,low,6,"Dynadot, LLC",06/05/2017 06:00,06/05/2027 06:00,23/09/2026 04:17
 4bb0e067-ce60-4ee9-8404-62f684b3560f,comingthrough.cloud,available,,,medium,high,14,,,,
 ebaf3973-1bd3-48f2-9d43-cfbfaacc5749,bulge.cloud,available,,,high,high,5,,,,
 50c516a5-1849-42c9-a816-18da6cd915ca,gingerbreadtrap.cloud,available,,,low,low,16,,,,
@@ -999,3 +998,4 @@ a33857d2-4760-41b3-bbc3-66abab69518b,laudat.cloud,available,,,medium,high,6,,,,
 0b3c44cd-28e3-4413-a497-90b98a4bfa15,daughterinlaw.cloud,available,,,medium,high,15,,,,
 7b06844d-7a63-4dee-bd93-d758b50257e1,farmrunoff.cloud,available,,,medium,high,11,,,,
 11f47c1d-2559-416a-b402-96341633aad9,motifs.cloud,available,,,medium,high,6,,,,
+85162637-d3a4-43ea-bfa7-caa4f053491a,consall.cloud,available,,,medium,high,7,,,,
