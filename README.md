@@ -1,10 +1,10 @@
-# Available .CLOUD One-Word Domains (42,902)
+# Available .CLOUD One-Word Domains (42,562)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-42%2C902%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-42%2C562%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .cloud one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **42,902 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **42,562 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 42,902 domains · **Median ask:** $302.49 · **High-demand under $2,500:** 252
+**Public extract:** 1,000 rows · **Live catalog:** 42,562 domains · **Median ask:** $329.73 · **High-demand under $2,500:** 801
 
-**Last updated:** 2026-09-26
+**Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/cloud`
 **Best for:** founders, investors, studios
 
@@ -67,23 +67,23 @@ print(df.head())
 | akee.cloud  | available | $5.29     | $25.99        | medium         | low    | 4      | namesilo       |
 | firm.cloud  | resell    | —         | —             | high           | low    | 4      | Name.com, Inc. |
 | and.cloud   | premium   | $6,250    | $6,250        | high           | medium | 3      | name.com       |
-| acerb.cloud | available | $3.98     | $32.98        | medium         | low    | 5      | namecheap      |
+| cagy.cloud  | available | $3.98     | $32.98        | medium         | low    | 4      | namecheap      |
 | luca.cloud  | resell    | —         | —             | high           | high   | 4      | InterNetX GmbH |
+| ats.cloud   | premium   | $2,660    | $2,660        | high           | high   | 3      | namesilo       |
+| acerb.cloud | available | $3.98     | $32.98        | medium         | low    | 5      | namecheap      |
+| prop.cloud  | resell    | —         | —             | high           | low    | 4      | Porkbun LLC    |
 | ayr.cloud   | premium   | $1,300    | $2,600        | high           | low    | 3      | namecheap      |
 | aphid.cloud | available | $5.29     | $25.99        | high           | low    | 5      | namesilo       |
-| prop.cloud  | resell    | —         | —             | high           | low    | 4      | —              |
+| raft.cloud  | resell    | —         | —             | high           | low    | 4      | Dynadot, LLC   |
 | azt.cloud   | premium   | $1,300    | $2,600        | high           | low    | 3      | namecheap      |
 | baisa.cloud | available | $9.99     | $39.99        | high           | low    | 5      | name.com       |
-| raft.cloud  | resell    | —         | —             | high           | low    | 4      | Dynadot, LLC   |
+| turn.cloud  | resell    | —         | —             | high           | low    | 4      | Porkbun LLC    |
 | bbs.cloud   | premium   | $650      | $1,300        | high           | low    | 3      | namecheap      |
 | belem.cloud | available | $5.29     | $25.99        | high           | low    | 5      | namesilo       |
-| rang.cloud  | resell    | —         | —             | high           | low    | 4      | eNom, Inc.     |
+| typo.cloud  | resell    | —         | —             | high           | low    | 4      | Dynadot, LLC   |
 | don.cloud   | premium   | $1,400    | $2,800        | high           | low    | 3      | namecheap      |
 | bitis.cloud | available | $3.98     | $32.98        | high           | low    | 5      | namecheap      |
-| turn.cloud  | resell    | —         | —             | high           | low    | 4      | Porkbun LLC    |
-| dry.cloud   | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo       |
-| boric.cloud | available | $3.98     | $32.98        | high           | low    | 5      | namecheap      |
-| typo.cloud  | resell    | —         | —             | high           | low    | 4      | Dynadot, LLC   |
+| wild.cloud  | resell    | —         | —             | high           | medium | 4      | NameSilo, LLC  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 42,902 live domains                        |
+| 1,000-row public sample | 42,562 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 252 high-demand names under $2,500         |
+| Basic exported fields   | 801 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CLOUD One-Word Domains*. Version 2026-09-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CLOUD One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
